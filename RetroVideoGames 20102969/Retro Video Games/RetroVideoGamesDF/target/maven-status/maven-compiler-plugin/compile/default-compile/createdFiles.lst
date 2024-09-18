@@ -1,0 +1,7 @@
+module-info.class
+org\example\retrovideogamesdf\GameManager.class
+org\example\retrovideogamesdf\GamesMachine.class
+org\example\retrovideogamesdf\HelloController.class
+org\example\retrovideogamesdf\GamePort.class
+org\example\retrovideogamesdf\Game.class
+org\example\retrovideogamesdf\HelloApplication.class
